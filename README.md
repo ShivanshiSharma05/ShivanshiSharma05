@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE Student  
 - 💻 Strong in **Data Structures & Algorithms**  
-- 🤖 Building **Machine Learning & Real-Time Projects**  
+- 🤖 Building **AI & Real-Time Systems**  
 - 📈 Focused on problem solving  
 - ⚡ Consistently improving through coding & projects  
 
@@ -21,7 +21,7 @@
 
 ## 🤝 Looking to Collaborate On
 - Open Source Projects  
-- ML / AI Projects  
+- AI / ML Projects  
 
 ---
 
@@ -31,17 +31,21 @@
 ---
 
 ## 🚀 Projects
-🔹 **Human Activity Recognition (HAR)**  
-Real-time action detection using ML (561 features) with OpenCV  
 
-🔹 **AI Resume Screening System**  
-Resume ranking + skill gap detection using AI  
+🔹 **AI Hiring Intelligence Platform**  
+- AI-powered system for resume screening & job matching  
+- Skill gap analysis + candidate ranking  
+- Built for smarter hiring decisions  
 
-🔹 **Spam Detection Model**  
-ML model to classify spam messages  
+🔹 **AI Code Assistant**  
+- Smart assistant for code generation & debugging  
+- Helps improve productivity and coding efficiency  
+- Built using AI concepts  
 
 🔹 **Face Mask Detection**  
-Computer vision-based detection  
+- Computer vision-based real-time detection system  
+- Detects mask compliance using webcam  
+- Built with OpenCV & ML  
 
 ---
 
