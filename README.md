@@ -82,7 +82,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanshi-sharma-563610327&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrashtiChauhan&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
