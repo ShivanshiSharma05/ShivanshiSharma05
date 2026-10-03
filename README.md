@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Shivanshi Sharma
 
-### Aspiring Software Engineer | DSA Enthusiast | Backend & ML Developer
+### Aspiring Software Engineer | DSA Enthusiast | Backend & Systems Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Solving+Data+Structures+%26+Algorithms;Exploring+Distributed+Systems;Developing+Practical+ML+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Concurrent+Systems;Solving+Data+Structures+%26+Algorithms;Exploring+Distributed+Systems;Building+Practical+ML+Applications" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/ShivanshiSharma05">
@@ -21,24 +21,21 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science Engineering student at COER University**, passionate about software engineering, problem-solving, backend development, and machine learning.
+I'm a **Computer Science Engineering student at COER University** with a strong interest in software engineering, backend development, systems programming, data structures, and machine learning.
 
-I enjoy building technically challenging projects that explore real-world engineering concepts such as:
+I enjoy building projects that go beyond basic CRUD applications and explore how real software systems work internally — from **concurrent servers and storage engines to distributed task processing and ML applications**.
 
-- Distributed task processing
-- Backend architecture
-- Database design
-- Concurrent systems
-- Algorithmic problem-solving
-- Machine learning applications
+My recent work includes building **MiniRedis++**, a concurrent C++17 key-value storage engine with TCP networking, thread pools, LRU caching, TTL expiration, Write-Ahead Logging, snapshots, restart recovery, and benchmarking.
 
 ```text
 🎓 Computer Science Engineering Student
 💻 300+ LeetCode Problems Solved
-🚀 Backend & Distributed Systems Enthusiast
-🧠 AI/ML Developer
-🌱 Continuously Learning & Building
-🎯 Preparing for Software Engineering Internships
+⚙️ Backend & Systems Engineering Enthusiast
+🧵 Concurrent & Distributed Systems
+🧠 AI / ML Developer
+🚀 Building Real-World Engineering Projects
+🌱 Continuously Learning & Improving
+🎯 Preparing for Software Engineering Opportunities
 ```
 
 ---
@@ -51,19 +48,27 @@ I enjoy building technically challenging projects that explore real-world engine
   <img src="https://skillicons.dev/icons?i=cpp,python,sql" alt="Programming Languages"/>
 </p>
 
-### ⚙️ Backend & Databases
+`C++` `Python` `SQL`
+
+### ⚙️ Backend & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,linux" alt="Backend and Systems"/>
 </p>
 
-- FastAPI
-- REST APIs
-- PostgreSQL
-- SQLAlchemy
-- Redis
-- JWT Authentication
-- Docker
+* FastAPI
+* REST APIs
+* PostgreSQL
+* SQLAlchemy
+* Redis
+* JWT Authentication
+* Docker
+* TCP Networking
+* Multithreading
+* Thread Pools
+* Synchronization
+* Caching
+* Persistence & Recovery
 
 ### 🤖 AI / Machine Learning
 
@@ -71,26 +76,75 @@ I enjoy building technically challenging projects that explore real-world engine
   <img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and ML Technologies"/>
 </p>
 
-- Machine Learning
-- Natural Language Processing
-- Computer Vision
-- Scikit-learn
-- Pandas
-- NumPy
-- Streamlit
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* Scikit-learn
+* Pandas
+* NumPy
+* OpenCV
+* Streamlit
 
 ### 🔧 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Developer Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,linux" alt="Developer Tools"/>
 </p>
+
+* Git
+* GitHub
+* VS Code
+* CMake
+* Linux
+* Visual Studio
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
+<td width="50%">
+
+<h3 align="center">⚡ MiniRedis++</h3>
+
+<p align="center">
+  <a href="https://github.com/ShivanshiSharma05/MiniRedis">
+    <img src="https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github" alt="MiniRedis++ Repository"/>
+  </a>
+</p>
+
+<p>
+  A <b>C++17 concurrent TCP-based key-value storage engine</b> built from scratch to explore systems programming, concurrency, caching, persistence, and recovery.
+</p>
+
+<b>Core Features:</b>
+
+* TCP client-server architecture
+* Persistent client connections
+* Concurrent client handling
+* Fixed-size thread pool
+* Thread-safe shared state
+* LRU cache
+* TTL-based expiration
+* Write-Ahead Logging
+* Persistent snapshots
+* Snapshot + WAL recovery
+* Restart recovery
+* Benchmarking
+* Stress and failure testing
+
+<p><b>Tech Stack:</b></p>
+
+`C++17` `Winsock2` `TCP/IP` `Multithreading` `CMake`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square" alt="Completed"/>
+</p>
+
+</td>
+
 <td width="50%">
 
 <h3 align="center">🛡️ CodeSentinel</h3>
@@ -107,14 +161,14 @@ I enjoy building technically challenging projects that explore real-world engine
 
 <b>Core Features:</b>
 
-- Python AST-based analysis
-- Multi-file repository analysis
-- Complexity and nested-loop detection
-- Risk scoring and priority ranking
-- Developer action recommendations
-- FastAPI backend
-- PostgreSQL persistence
-- Streamlit dashboard
+* Python AST-based analysis
+* Multi-file repository analysis
+* Complexity and nested-loop detection
+* Risk scoring and priority ranking
+* Developer action recommendations
+* FastAPI backend
+* PostgreSQL persistence
+* Streamlit dashboard
 
 <p><b>Tech Stack:</b></p>
 
@@ -125,6 +179,10 @@ I enjoy building technically challenging projects that explore real-world engine
 </p>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -142,16 +200,16 @@ I enjoy building technically challenging projects that explore real-world engine
 
 <b>Core Features:</b>
 
-- DAG-based workflow execution
-- Task dependencies and scheduling
-- Redis-based task queue
-- Distributed workers
-- Retry and failure handling
-- Task timeout and idempotency
-- Dead-letter queue
-- Worker heartbeat and monitoring
-- Execution history
-- Docker environment
+* DAG-based workflow execution
+* Task dependencies and scheduling
+* Redis-based task queue
+* Distributed workers
+* Retry and failure handling
+* Task timeout and idempotency
+* Dead-letter queue
+* Worker heartbeat and monitoring
+* Execution history
+* Docker environment
 
 <p><b>Tech Stack:</b></p>
 
@@ -160,39 +218,6 @@ I enjoy building technically challenging projects that explore real-world engine
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=flat-square" alt="Completed"/>
 </p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">⚡ MiniRedis++</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress%20%2F%20Planned-orange?style=flat-square" alt="In Progress"/>
-</p>
-
-<p>
-  A C++ systems project focused on designing a concurrent in-memory key-value store and exploring storage engine internals.
-</p>
-
-<b>Planned Features:</b>
-
-- TCP client-server communication
-- Concurrent client handling
-- Thread pool
-- Thread-safe key-value store
-- TTL support
-- LRU eviction
-- Write-Ahead Logging
-- Snapshot persistence
-- Crash recovery
-- Performance benchmarking
-
-<p><b>Tech Stack:</b></p>
-
-`C++` `TCP Sockets` `Multithreading` `Synchronization`
 
 </td>
 
@@ -210,68 +235,100 @@ I enjoy building technically challenging projects that explore real-world engine
 
 <b>Project Areas:</b>
 
-- Spam classification
-- Face mask detection
-- Driver drowsiness detection
-- GenAI question-answering system
-- Used-car price prediction
+* Spam classification
+* Face mask detection
+* Driver drowsiness detection
+* GenAI question-answering system
+* Used-car price prediction
 
 <p><b>Technologies:</b></p>
 
 `Python` `Scikit-learn` `OpenCV` `FastAPI` `Streamlit`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Contributions
+# 🏆 Achievements & Contributions
 
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| 💻 LeetCode | 300+ problems solved |
-| 🌍 GSSoC'26 | Open-source contributor |
-| 🌐 GSA'26 | Google Gemini Ambassador |
-| 🏅 SIH 2025 | College-Level Finalist |
+| Achievement | Details                  |
+| ----------- | ------------------------ |
+| 💻 LeetCode | 300+ problems solved     |
+| 🌍 GSSoC'26 | Open-source contributor  |
+| 🌐 GSA'26   | Google Gemini Ambassador |
+| 🏅 SIH 2025 | College-Level Finalist   |
 
 </div>
 
-### 📈 Problem-Solving Focus
+---
+
+## 📈 Problem-Solving & Engineering Focus
 
 ```text
 Data Structures & Algorithms
             ↓
+Modern C++ & Systems Programming
+            ↓
 Backend Engineering
             ↓
-Distributed Systems
+Concurrent & Distributed Systems
             ↓
 Database Design
             ↓
 Machine Learning
             ↓
-Software Engineering Interviews
+System Design
+            ↓
+Software Engineering
 ```
 
 ---
 
-## 📚 Current Learning Focus
+# 📚 Current Learning Focus
 
-- Advanced Data Structures and Algorithms
-- C++ problem-solving
-- Operating Systems
-- Database Management Systems
-- Computer Networks
-- Backend architecture
-- Distributed systems
-- System design fundamentals
-- Software engineering interview preparation
+I'm currently focusing on strengthening my fundamentals and building deeper systems knowledge:
+
+* Advanced Data Structures & Algorithms
+* Modern C++
+* Operating Systems
+* Computer Networks
+* Database Management Systems
+* Backend Architecture
+* Concurrent Programming
+* Distributed Systems
+* System Design Fundamentals
+* Performance Optimization
+* Software Engineering Interview Preparation
 
 ---
 
-## 📊 GitHub Statistics
+# 💡 What I Like Building
+
+```text
+┌──────────────────────────────────────────────┐
+│              Engineering Interests           │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ⚙️ Backend Systems                          │
+│  🧵 Concurrent Applications                  │
+│  🌐 Networked Services                       │
+│  💾 Storage & Caching Systems                │
+│  🔄 Distributed Workflows                   │
+│  🧠 Machine Learning Applications            │
+│  📊 Data-Driven Systems                     │
+│  🧩 Algorithmic Solutions                   │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -287,7 +344,7 @@ Software Engineering Interviews
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <div align="center">
 
